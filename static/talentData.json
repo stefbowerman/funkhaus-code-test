@@ -1,0 +1,68 @@
+{
+  "talent": [
+    {
+      "title": "Anderson Wright",
+      "slug": "anderson-wright",
+      "featured_image": "NZINGHA-1024x422.png" ,
+      "project_title": "Rocket Mortgage®",
+      "project_subtitle": "Avengers: Infinity War the Mortgage Process Doesn't Have to Be a Battle",
+      "project_vimeo_id": "295620356"
+    },
+    {
+      "title": "Anthony Leonardi",
+      "slug": "anthony-leonardi",
+      "featured_image": "Audi-The-Chase-1024x413.png",
+      "project_title": "Rocket Mortgage®",
+      "project_subtitle": "Avengers: Infinity War the Mortgage Process Doesn't Have to Be a Battle",
+      "project_vimeo_id": "295620356"
+    },
+    {
+      "title": "Candice Vernon",
+      "slug": "candice-vernon",
+      "featured_image": "stevie.png",
+      "project_title": "Rocket Mortgage®",
+      "project_subtitle": "Avengers: Infinity War the Mortgage Process Doesn't Have to Be a Battle",
+      "project_vimeo_id": "295620356"
+    },
+    {
+      "title": "Drake Doremus",
+      "slug": "drake-doremus",
+      "featured_image": "Oxford-Robot-1024x437.png",
+      "project_title": "Rocket Mortgage®",
+      "project_subtitle": "Avengers: Infinity War the Mortgage Process Doesn't Have to Be a Battle",
+      "project_vimeo_id": "295620356"
+    },
+    {
+      "title": "Justin Lin",
+      "slug": "justin-lin",
+      "featured_image": "star-trek.png",
+      "project_title": "Rocket Mortgage®",
+      "project_subtitle": "Avengers: Infinity War the Mortgage Process Doesn't Have to Be a Battle",
+      "project_vimeo_id": "295620356"
+    },
+    {
+      "title": "Larry Charles",
+      "slug": "larry-charles",
+      "featured_image": "boxer.png",
+      "project_title": "Rocket Mortgage®",
+      "project_subtitle": "Avengers: Infinity War the Mortgage Process Doesn't Have to Be a Battle",
+      "project_vimeo_id": "295620356"
+    },
+    {
+      "title": "Matt Ogens",
+      "slug": "matt-ogens",
+      "featured_image" : "home-away-trailer-1024x524.png",
+      "project_title": "Rocket Mortgage®",
+      "project_subtitle": "Avengers: Infinity War the Mortgage Process Doesn't Have to Be a Battle",
+      "project_vimeo_id": "295620356"
+    },
+    {
+      "title": "Peyton Wilson",
+      "slug": "peyton-wilson",
+      "featured_image": "HP-Not-Alone-1024x576.png",
+      "project_title": "Rocket Mortgage®",
+      "project_subtitle": "Avengers: Infinity War the Mortgage Process Doesn't Have to Be a Battle",
+      "project_vimeo_id": "295620356"
+    }
+  ]
+}
